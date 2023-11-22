@@ -1,0 +1,42 @@
+body1{
+    text-align: center;
+}
+header{
+    background-color: bisque;
+    padding:25px;
+}
+header1{
+    background-color: bisque;
+    padding:20px;
+}
+li{
+    display: inline;
+    margin: 20px;
+    font-size: 20px;
+    font-style: inherit;
+}
+ul{
+    color: black;
+}
+
+img{
+    border-radius: 150px;
+}
+SECTION1{
+    background-color: blue;
+}
+div{
+    background-color: yellowgreen;
+    padding: 25px;
+}
+rev
+
+{
+    background-color: black;
+}
+.p1{
+    background-color: black;
+    color: white;
+}
+
+
